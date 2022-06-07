@@ -1,5 +1,5 @@
 Class B {
 
-// Some comment
+// Some comment 3
 
 }
