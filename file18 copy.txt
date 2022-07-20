@@ -1,7 +1,5 @@
 Class B {
 
 // Some comment
-//123
-//123
-//123
+
 }
