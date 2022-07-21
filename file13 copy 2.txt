@@ -1,10 +1,12 @@
 Class B {
 
 // Some comment
+
 // Using AwesomeComponent
 
 
 123
 12ewf
 wef
+
 }
