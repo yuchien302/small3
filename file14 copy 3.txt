@@ -1,5 +1,5 @@
 Class B {
 
 // Some comment
-// Using AwesomeComponent
+
 }
